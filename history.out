@@ -1,0 +1,6 @@
+    1  visudo
+    2  cat /etc/sudoers | grep user1
+    3  su - user1
+    4  -ls -l ~/history.out ~/stat.out ~/getcap.out
+    5  ls -l ~/history.out ~/stat.out ~/getcap.out
+    6  history > ~/history.out

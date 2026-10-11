@@ -1,0 +1,27 @@
+  File: /home/user1
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fd00h/64768d	Inode: 288512      Links: 3
+Access: (0700/drwx------)  Uid: ( 1234/   user1)   Gid: ( 1001/students)
+Context: unconfined_u:object_r:user_home_dir_t:s0
+Access: 2026-10-11 07:06:36.950324609 -0400
+Modify: 2020-10-10 10:26:58.276052976 -0400
+Change: 2020-10-10 10:26:58.276052976 -0400
+ Birth: -
+  File: /usr/local/bin/lab_cat_user1
+  Size: 48656     	Blocks: 96         IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 191122      Links: 1
+Access: (4755/-rwsr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: unconfined_u:object_r:bin_t:s0
+Access: 2026-10-11 07:32:30.214348787 -0400
+Modify: 2026-10-11 07:27:00.340575426 -0400
+Change: 2026-10-11 07:31:09.207403419 -0400
+ Birth: -
+  File: /usr/local/bin/lab_chown_user1
+  Size: 90012     	Blocks: 184        IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 191126      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: unconfined_u:object_r:bin_t:s0
+Access: 2026-10-11 07:42:49.406796670 -0400
+Modify: 2026-10-11 07:34:45.302279064 -0400
+Change: 2026-10-11 07:37:07.599023942 -0400
+ Birth: -
